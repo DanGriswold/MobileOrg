@@ -1,0 +1,192 @@
+#+LAST_MOBILE_CHANGE: 2016-08-10 16:29:59
+
+* Projects
+** CURRENT Formation of a Discernment Circle decided
+   :PROPERTIES:
+   :ID:       faa209af-cded-4137-9d3b-8c6120dc5ed2
+   :END:
+   :LOGBOOK:
+   - State "CURRENT"    from              [2017-05-12 Fri 13:10]
+   :END:
+
+*** DONE 🤔 friends for disc circle                               :shlw:open:
+    SCHEDULED: <2017-05-15 Mon>
+    :PROPERTIES:
+    :ID:       65660d2b-637c-42b0-8853-0f591dc63e12
+    :END:
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2017-05-18 Thu 15:55]
+    :END:
+
+**** Crazy, broad, unrealistic list
+     - Abby
+     - Bruce
+     - Lisa Tice
+     - Bonnie Matthaidess
+     - Derek
+     - Josh
+**** Characteristics of participants
+     - emotionally smart
+     - spiritually mature
+     - kind
+     - honest
+*** DONE 🤔 purpose of disc circle                                :shlw:open:
+    SCHEDULED: <2017-05-15 Mon>
+    :PROPERTIES:
+    :ID:       ddd3cab8-eeaa-4aef-a44a-91e0685ca466
+    :END:
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2017-05-18 Thu 15:45]
+    :END:
+
+    - honest observation/feedback about my strengths and limits
+    - vocational discernment
+    - help in making best choices about what I can and should be doing
+    - clarity
+*** DONE 🤔 whether I still want to do this
+    SCHEDULED: <2017-07-11 Tue>
+    :PROPERTIES:
+    :Effort:   0:15
+    :CREATED:  [2017-07-11 Tue 10:20]
+    :ID:       52823abb-41a2-451d-b8a0-dcae234749fa
+    :END:
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2017-07-19 Wed 15:00]
+    :END:
+    - I first need to re-read some of /Let Your Life Speak/
+    - I do have a circle: people I trust, who know me, and are wise
+    - it's just that they're never together at the same time
+*** Parker Palmer on the Clearness Committee
+    https://vimeo.com/album/3795627/video/155177203
+
+* Events/dates
+*** Dianne on vacation 
+    :PROPERTIES:
+    :ID:       be36caf1-50e0-417c-8e9d-ba51fc227fe6
+    :END:
+    <2017-06-30 Fri>--<2017-07-04 Tue>
+
+* Tasks
+** NEXT Get haircut                                                    :@CAR:
+   SCHEDULED: <2017-08-10 Thu .+4w>
+   :PROPERTIES:
+   :REPEAT_TO_STATE: NEXT
+   :EFFORT:   0:45
+   :ID:       068d0a6e-152b-42f4-85d9-b74e878b8d8e
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2017-07-20 Thu 16:00]
+   - State "DONE"       from "NEXT"       [2017-06-06 Tue 15:55]
+   - State "WAIT"       from "NEXT"       [2017-05-05 Fri 11:35]
+   - State "WAIT"       from "NEXT"       [2017-04-01 Sat 08:20]
+   - State "DONE"       from "NEXT"       [2017-02-16 Thu 10:45]
+   - State "DONE"       from "NEXT"       [2017-01-08 Sun 07:15]
+   - State "DONE"       from "NEXT"       [2016-12-06 Tue 15:35]
+   - State "WAIT"       from "NEXT"       [2016-10-19 Wed 13:55]
+   :END:
+** NEXT Send message to Sherri B                                       :@NET:
+   SCHEDULED: <2017-05-10 Wed>
+   :PROPERTIES:
+   :Effort:   0:05
+   :CREATED:  [2017-05-10 Wed 11:50]
+   :ID:       2beddc1b-fe37-4b5f-a163-28f82678a19a
+   :END:
+** NEXT Send Al a $20 check
+   SCHEDULED: <2017-06-16 Fri>
+   :PROPERTIES:
+   :Effort:   0:15
+   :CREATED:  [2017-06-16 Fri 11:05]
+   :ID:       f3e287f8-df5c-4b45-97f2-ca415a0e2a57
+   :END:
+ 
+* Things I want to do this year
+
+** Contact
+** Experiences
+   - Go to CO again
+   - RPO concert w Tammi
+
+** Reading
+   - Read 12 books
+   - Keep up with Strings mag and the Sunday D&C
+
+** Writing
+   - have a draft of the whole book
+
+* What do I want to do or accomplish
+  Yes, this is quite similar to the previous. I think it's at both a higher and lower level. (Not sure that makes sense)
+
+ - Get lighter and stronger
+
+ - Learn something from the Bach Partitas & Sonatas well enough to perform
+
+ - Read books (not just blogs)
+
+ - Make great progress on my own book
+
+ - Be a great president for PSO
+
+I'm talking about habits. I need to develop stronger habits
+
+ - exercising
+
+ - practicing
+
+ - reading
+
+ - writing
+
+ - attending to PSO stuff (on my terms, in my time)
+
+How do I develop those habits? It's hard, when I already feel like I have no time available and I feel exhausted
+
+* Packing List
+  - Grooming
+    - soap
+    - shampoo
+    - shaving cream
+    - razor
+    - shaving brush (if needed)
+    - aftershave
+    - comb
+    - styptic pencil
+    - toothbrush
+    - toothpaste
+    - floss
+    - shower brush
+  - Medications
+    - Tamsulosin
+    - Vitamin D
+    - Claritin
+    - Omeprasole
+    - Pepcid
+    - Aspirin
+    - Ibuprofin
+  - Clothing
+    - briefs
+    - handkerchiefs
+    - t-shirts
+    - socks
+    - shorts
+    - shirts
+    - slacks
+    - blazer/sportcoat
+    - pocket squares
+    - belts
+    - sweaters
+    - sweatpants & sweatshirts
+  - Electronics
+    - Alto & charger
+    - Phone
+    - Tablet
+    - digital memo recorder
+    - Wall charger and cord for phone & tablet
+  - Writing & Reading
+    - Moleskine
+    - Pens/pencil
+    - Magazines
+  - Etc
+    - Binary blanket
+    - Alcohol and snacks
+
+

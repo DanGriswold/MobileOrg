@@ -1,0 +1,10 @@
+#+READONLY
+#+TODO: MAYB TODO NEXT | WAIT DONE DROP
+#+TODO: PERHAPS BREWING CURRENT | WRAPPED CANCELLED
+#+TODO: MUL NOW | END ZAP
+#+TAGS: { @EMAIL @PHONE @NET @CAR } { Jana Alexis Tammi Dianne } { shlw deep } { open clsd } PROJECT
+#+ALLPRIORITIES: A B C
+* [[file:agendas.org][Agenda Views]]
+* [[file:life.org][life.org]]
+* [[file:personal.org][personal.org]]
+* [[file:trinity.org][trinity.org]]

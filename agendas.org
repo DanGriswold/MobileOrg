@@ -1,0 +1,97 @@
+#+READONLY
+* Select Next Actions<after>KEYS=b#1 TITLE: MobileOrg agendas</after>
+** Thursday   10 August 2017
+***  Diary: 12:00pm- 1:30pm Bryant, lunch; Location: Flaherty's Three Flags Inn /Webster, 1200 Bay Rd, Webster, NY 14580, USA<before></before>
+
+***  Diary:  7:30pm- 9:30pm Quintet rehearsal<before></before>
+
+
+
+* Phone Calls<after>KEYS=b#2 TITLE: MobileOrg agendas</after>
+**  NEXT 📞 June Pehta                                      :@PHONE:<before>trc:   343d</before>
+   SCHEDULED: <2017-03-02 Thu>
+   :PROPERTIES:
+   :ORIGINAL_ID: d356fff5-4e3c-46af-9e65-8e9b71e7929f
+   :END:
+
+**  NEXT 📞 Carol Stimus                                    :@PHONE:<before>trc:   205d</before>
+   SCHEDULED: <2017-03-02 Thu>
+   :PROPERTIES:
+   :ORIGINAL_ID: 511d6547-e5d3-4f62-b85b-addcc64c11d1
+   :END:
+
+**  NEXT 📞 Jackie Matteson                                 :@PHONE:<before>trc:   205d</before>
+   SCHEDULED: <2017-07-11 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 747d24a5-ec09-45ac-89e2-6f0850d0caab
+   :END:
+
+**  NEXT 📞 Dianne Pivarnik                                 :@PHONE:<before>trc:   132d</before>
+   SCHEDULED: <2017-03-31 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: e482cc69-1329-4b88-ace6-83c3ba4405d7
+   :END:
+
+**  NEXT ❓ Bill A. > dialogue about HOME                   :@PHONE:<before>trc:   9d</before>
+   SCHEDULED: <2017-08-02 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: 1a62089d-ce69-48a0-aeb2-55b32f51a2e5
+   :END:
+
+
+
+* Errands<after>KEYS=b#3 TITLE: MobileOrg agendas</after>
+**  NEXT Take cable modem to TW store                         :@CAR:<before>mine:  92d</before>
+   SCHEDULED: <2017-05-10 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: 4c5a67c3-9477-486d-ad84-f241544dd9ba
+   :END:
+
+**  NEXT Get haircut                                          :@CAR:<before>life:  nil</before>
+   SCHEDULED: <2017-08-10 Thu .+4w>
+   :PROPERTIES:
+   :ORIGINAL_ID: 068d0a6e-152b-42f4-85d9-b74e878b8d8e
+   :END:
+
+
+
+* Select Current Projects<after>KEYS=b#4 TITLE: MobileOrg agendas</after>
+
+
+* Active Goals<after>KEYS=b#5 TITLE: MobileOrg agendas</after>
+**  NOW To lead TRC in culture-changing partic. in DLC<before>trc:   239d-507d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 45e3a697-844f-41a9-953b-a944a834cb51
+   :END:
+
+**  NOW To hire an additional ministry staff person<before>trc:   154d--10d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 67135115-d9b3-4010-833b-2c3e82023812
+   :END:
+
+**  NOW To be healthy & creative planning post-Pent II worship<before>trc:   107d--51d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: ec01c32c-574c-4d4f-ac60-05637cd2f080
+   :END:
+
+**  NOW To develop practices that could improve worship<before>trc:   104d-21d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 7ace7060-7686-4688-ab25-51e48ddb00ce
+   :END:
+
+**  NOW To rejuvenate my SS class<before>trc:   104d-21d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 79119467-2f0c-40f2-8dcb-66a61020a225
+   :END:
+
+**  NOW To help plan & participate in a great Ref 500 event<before>trc:   66d-79d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: e1ab5eb4-c764-492a-889b-39b591e75897
+   :END:
+
