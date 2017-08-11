@@ -1,38 +1,434 @@
 #+READONLY
 * Select Next Actions<after>KEYS=b#1 TITLE: MobileOrg agendas</after>
-** Thursday   10 August 2017
-***  Diary: 12:00pm- 1:30pm Bryant, lunch; Location: Flaherty's Three Flags Inn /Webster, 1200 Bay Rd, Webster, NY 14580, USA<before></before>
+** Friday     11 August 2017
+***  NEXT [#A] Weekly Review                        :@COMPUTER:<before>mine:  Schd.  4x:</before>
+   SCHEDULED: <2017-06-26 Mon ++1w>
+   :PROPERTIES:
+   :ORIGINAL_ID: e2b0c79d-5fd5-4912-90d2-9abbba7088cc
+   :END:
 
-***  Diary:  7:30pm- 9:30pm Quintet rehearsal<before></before>
+***  NEXT [#A] Do Stage 1: orientation              :deep:open:<before>trc:   Schd.  2x:</before>
+   SCHEDULED: <2017-08-09 Wed ++1w>
+   - listen
+     - read text
+     - read text out loud
+     - silently meditate on the text
+   - note heart responses
+   - note verse(s) most compelling to you
+   - note questions
+   - list characters
+   - state genre or form
+   :PROPERTIES:
+   :ORIGINAL_ID: d27388ce-5be1-4dab-b570-0c57346e0249
+   :END:
 
+***  NEXT [#A] Do Stage 2: exploration              :deep:clsd:<before>trc:   Schd.  2x:</before>
+   SCHEDULED: <2017-08-09 Wed ++1w>
+   - read text
+   - go over notes from stage 1
+   - note dramatic conflicts & tensions
+   - state context
+     - biblical
+     - historical
+   - list theological themes
+   - record ideas and questions
+   - check original languages for important words or special terms
+   :PROPERTIES:
+   :ORIGINAL_ID: c723d5d7-7231-44ab-ac3b-c2f25131eabd
+   :END:
 
+***  NEXT [#A] Do Stage 3: creative reflection      :deep:open:<before>trc:   Schd.  1x:</before>
+   SCHEDULED: <2017-08-10 Thu ++1w>
+   - read text
+   - go over notes from stages 1-2
+   - name
+     - life associations
+     - cultural connections
+   - freewrite prose
+   - list possible titles
+   - consider hooks
+   - more prose freewriting
+   :PROPERTIES:
+   :ORIGINAL_ID: 7a01a02a-75c6-4200-a7fb-3f49f1d9b11e
+   :END:
 
-* Phone Calls<after>KEYS=b#2 TITLE: MobileOrg agendas</after>
-**  NEXT 📞 June Pehta                                      :@PHONE:<before>trc:   343d</before>
+***  NEXT [#A] Daily Organizing                     :shlw:open:<before>trc:   Scheduled:</before>
+   SCHEDULED: <2017-08-10 Thu .+1d>
+   - Organize Items out of inbox
+     - record into org-mode
+     - put in file folders [creating if necessary]
+   - check tickler file for today
+   - Check calendar
+   - Review (org-agenda-list)
+   - Review waiting for items (org-agenda nil "w")
+   - process e-mail (don't read!)
+   :PROPERTIES:
+   :ORIGINAL_ID: 486c6812-6dc0-4778-9e74-8f200e3f7452
+   :END:
+
+***  NEXT [#A] Tell Alexis > special worship items     :@EMAIL:<before>trc:   Scheduled:</before>
+   SCHEDULED: <2017-08-11 Fri +1w>
+   :PROPERTIES:
+   :ORIGINAL_ID: b32eca0e-d782-484d-8f39-e0a28d808c11
+   :END:
+
+***  NEXT 🛒 copies of my book                           :@NET:<before>mine:  Schd.319x:</before>
+   SCHEDULED: <2016-09-26 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 18262693-b789-4a09-8f54-aa6949ff8850
+   :END:
+
+***  NEXT 🔎 new tips for headphones                     :@NET:<before>mine:  Schd.206x:</before>
+   SCHEDULED: <2017-01-17 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 90f63f63-517e-4577-84be-82d6000b8a21
+   :END:
+
+***  NEXT 📞 June Pehta                                :@PHONE:<before>trc:   Schd.162x:</before>
    SCHEDULED: <2017-03-02 Thu>
    :PROPERTIES:
    :ORIGINAL_ID: d356fff5-4e3c-46af-9e65-8e9b71e7929f
    :END:
 
-**  NEXT 📞 Carol Stimus                                    :@PHONE:<before>trc:   205d</before>
+***  NEXT 📞 Carol Stimus                              :@PHONE:<before>trc:   Schd.162x:</before>
    SCHEDULED: <2017-03-02 Thu>
    :PROPERTIES:
    :ORIGINAL_ID: 511d6547-e5d3-4f62-b85b-addcc64c11d1
    :END:
 
-**  NEXT 📞 Jackie Matteson                                 :@PHONE:<before>trc:   205d</before>
-   SCHEDULED: <2017-07-11 Tue>
-   :PROPERTIES:
-   :ORIGINAL_ID: 747d24a5-ec09-45ac-89e2-6f0850d0caab
-   :END:
-
-**  NEXT 📞 Dianne Pivarnik                                 :@PHONE:<before>trc:   132d</before>
+***  NEXT 📞 Dianne Pivarnik                           :@PHONE:<before>trc:   Schd.133x:</before>
    SCHEDULED: <2017-03-31 Fri>
    :PROPERTIES:
    :ORIGINAL_ID: e482cc69-1329-4b88-ace6-83c3ba4405d7
    :END:
 
-**  NEXT ❓ Bill A. > dialogue about HOME                   :@PHONE:<before>trc:   9d</before>
+***  NEXT Read Olita's book<before>mine:  Schd.130x:</before>
+   SCHEDULED: <2017-04-03 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: acab971f-a607-424f-ab96-efe0c3c83515
+   :END:
+
+***  NEXT 🔎 fun & special things to do w Tammi     :shlw:open:<before>mine:  Schd.129x:</before>
+   SCHEDULED: <2017-04-04 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 0364c518-08b6-466f-b4b8-8d1c21f0224f
+   :END:
+
+***  NEXT Get choir piece from church<before>mine:  Schd.116x:</before>
+   SCHEDULED: <2017-04-17 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 5be58e7d-bada-4954-8285-5dffc2ff784c
+   :END:
+
+***  NEXT Insert cue notes<before>mine:  Schd.116x:</before>
+   SCHEDULED: <2017-04-17 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 7b2780b9-7771-47b6-8008-1f65b3762551
+   :END:
+
+***  NEXT Rev & adv [[*Need to start an exercise habit][Need to start an exercise habit]] :shlw:open:<before>mine:  Schd.102x:</before>
+   SCHEDULED: <2017-05-01 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: e02869db-b6bd-492a-8650-e9cbe37175fe
+   :END:
+
+***  NEXT Ponder this                               :deep:open:<before>mine:  Schd.101x:</before>
+   SCHEDULED: <2017-05-02 Tue>
+   I'm not sure how to have life-giving, rejuvenating vacations
+   - I tend to sit around and mope too much
+   - I often end vac more depressed than at beginning
+   - Trip with Tammi in May?
+     - I'm concerned that
+       - we're disconnected
+       - I bore her, or I make her weary
+       - she doesn't know how to engage me in conv
+       - I'm often frustrated with her
+   :PROPERTIES:
+   :ORIGINAL_ID: 355adcf1-834b-406d-b758-c6f2609a835d
+   :END:
+
+***  NEXT Write TU note > Donna<before>mine:  Schd. 93x:</before>
+   SCHEDULED: <2017-05-10 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: 2b237ccc-c163-478f-bfcb-ddafb9a50525
+   :END:
+
+***  NEXT Take cable modem to TW store                   :@CAR:<before>mine:  Schd. 93x:</before>
+   SCHEDULED: <2017-05-10 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: 4c5a67c3-9477-486d-ad84-f241544dd9ba
+   :END:
+
+***  NEXT Send message to Sherri B                       :@NET:<before>life:  Schd. 93x:</before>
+   SCHEDULED: <2017-05-10 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: 2beddc1b-fe37-4b5f-a163-28f82678a19a
+   :END:
+
+***  NEXT Get basement lights working<before>mine:  Schd. 90x:</before>
+   SCHEDULED: <2017-05-13 Sat>
+   :PROPERTIES:
+   :ORIGINAL_ID: b75708ee-b6e7-4d1b-bec6-8937e8e9815b
+   :END:
+
+***  NEXT 🛒 new drum for printer                        :@NET:<before>mine:  Schd. 88x:</before>
+   SCHEDULED: <2017-05-15 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 1dc1bfec-78c4-4eb1-80f2-596524ba10e8
+   :END:
+
+***  NEXT 🛒 Irish Bkfst tea (Adagio)                    :@NET:<before>mine:  Schd. 88x:</before>
+   SCHEDULED: <2017-05-15 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 14708aa5-77a2-49ff-ba02-b68a62df7c03
+   :END:
+
+***  NEXT Set goals & projs for job search / voc clarity<before>mine:  Schd. 56x:</before>
+   SCHEDULED: <2017-06-16 Fri>
+   - Church of the Servant
+   - Hope K'zoo
+   :PROPERTIES:
+   :ORIGINAL_ID: 8e73ccc8-a878-4f0a-a055-b84b66fe98ea
+   :END:
+
+***  NEXT Send Al a $20 check<before>life:  Schd. 56x:</before>
+   SCHEDULED: <2017-06-16 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: f3e287f8-df5c-4b45-97f2-ca415a0e2a57
+   :END:
+
+***  NEXT Write TRC NL annc > concert               :shlw:open:<before>mine:  Schd. 50x:</before>
+   SCHEDULED: <2017-06-22 Thu>
+   :PROPERTIES:
+   :ORIGINAL_ID: 25e6ffbd-b719-40be-9363-4d155279690f
+   :END:
+
+***  NEXT Listen to CDs < Evelyn & Edith<before>mine:  Schd. 45x:</before>
+   SCHEDULED: <2017-06-27 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: deb5ad19-5552-4157-b0b1-f241b020ac66
+   :END:
+
+***  NEXT Make projects > exploring possibilities<before>mine:  Schd. 45x:</before>
+   SCHEDULED: <2017-06-27 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: a936c45e-7d22-45e8-866b-6301b01a158d
+   :END:
+
+***  NEXT Write letter to Tom & L DeVries           :deep:clsd:<before>mine:  Schd. 40x:</before>
+   SCHEDULED: <2017-07-02 Sun>
+   :PROPERTIES:
+   :ORIGINAL_ID: 3a224787-8e8f-4e05-8375-b30f1a0d36c5
+   :END:
+
+***  NEXT 🤔 whether I'm in spiritual crisis       :shlw::open:<before>mine:  Schd. 40x:</before>
+   SCHEDULED: <2017-07-02 Sun>
+   
+   What did that feeling of God's leading mean? What now? Where now, if not there?
+   :PROPERTIES:
+   :ORIGINAL_ID: 40e953de-6c19-4814-9467-e124ed613eb1
+   :END:
+
+***  NEXT Review [[*PSO pres still a real drag][PSO pres still a real drag]]         :deep:open:<before>pso:   Schd. 39x:</before>
+   SCHEDULED: <2017-07-03 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: c0e5511a-51d6-43fe-92ea-25494736f205
+   :END:
+
+***  NEXT 🤔 next steps for looking outside RCA<before>mine:  Schd. 37x:</before>
+   SCHEDULED: <2017-07-05 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: ac614e65-d6a5-4f77-a2d1-b1c4a440bf56
+   :END:
+
+***  NEXT Email Dave H<before>pso:   Schd. 32x:</before>
+   SCHEDULED: <2017-07-10 Mon>
+   - what are his preferred run outs?
+   - tell him > video season promo recording at Saelig
+   :PROPERTIES:
+   :ORIGINAL_ID: a575a69b-ea99-4819-b2a9-f5c279b99be0
+   :END:
+
+***  NEXT 📞 Jackie Matteson                           :@PHONE:<before>trc:   Schd. 31x:</before>
+   SCHEDULED: <2017-07-11 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 747d24a5-ec09-45ac-89e2-6f0850d0caab
+   :END:
+
+***  NEXT Visit Marge Dangler @ Presby Home<before>trc:   Schd. 31x:</before>
+   SCHEDULED: <2017-07-11 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 9a3139d3-7f85-425c-aa8d-18ac4282e70b
+   :END:
+
+***  NEXT 🤔 theo disc group                        :shlw:open:<before>trc:   Schd. 31x:</before>
+   SCHEDULED: <2017-07-11 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 6ab1891c-c629-45f0-9c86-db88304c6afe
+   :END:
+
+***  NEXT 🔎 bicycles for CJ                             :@NET:<before>mine:  Schd. 25x:</before>
+   SCHEDULED: <2017-07-17 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: ddd31c90-a427-434c-aaf5-e78fab15cf7b
+   :END:
+
+***  NEXT Submit to SMB                             :shlw:clsd:<before>trc:   Schd. 23x:</before>
+   SCHEDULED: <2017-07-19 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: e015754b-8e90-4a00-ac7c-eeb7a797f9a1
+   :END:
+
+***  NEXT 🤔 how I can do move this forward        :shlw::open:<before>trc:   Schd. 23x:</before>
+   SCHEDULED: <2017-07-19 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: ca57a932-f6f2-40ec-b362-bb658b97d04b
+   :END:
+
+***  NEXT Review SS survey                          :shlw:open:<before>trc:   Schd. 22x:</before>
+   SCHEDULED: <2017-07-20 Thu>
+   :PROPERTIES:
+   :ORIGINAL_ID: 64916b77-5876-47d5-8a0f-95265d7799bd
+   :END:
+
+***  NEXT 🔎 advertising options                         :@NET:<before>trc:   Schd. 21x:</before>
+   SCHEDULED: <2017-07-21 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: b6cd4cc4-4b8d-4cae-9fdf-d41ed4c60e11
+   :END:
+
+***  NEXT 🔎 opportunities to help refugees              :@NET:<before>trc:   Schd. 21x:</before>
+   SCHEDULED: <2017-07-21 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: 1390224a-cbce-40f6-b36f-5271346f5452
+   :END:
+
+***  NEXT Talk with Josiah > liturgist<before>trc:   Schd. 21x:</before>
+   SCHEDULED: <2017-07-21 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: 13758132-539d-43ae-919e-033850d5a7b9
+   :END:
+
+***  NEXT find out rqrmnts > annual reports              :@NET:<before>pso:   Schd. 18x:</before>
+   SCHEDULED: <2017-07-24 Mon>
+   What items does NYS require in annual reports?
+   :PROPERTIES:
+   :ORIGINAL_ID: 584377a0-f49f-45a2-9620-e2c5ee9981a6
+   :END:
+
+***  NEXT Look at FB page of League of Amer Orch         :@NET:<before>pso:   Schd. 18x:</before>
+   SCHEDULED: <2017-07-24 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: d3aa8ed8-f4eb-4e20-b13f-888aea62332e
+   :END:
+
+***  NEXT ? xc > Dianne adding ads sales, incorporating it into her 30 hrs :@EMAIL:<before>pso:   Schd. 18x:</before>
+   SCHEDULED: <2017-07-24 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 66d7867f-aac8-426f-ba4b-deb8581b72b6
+   :END:
+
+***  NEXT 🔎 teaching methods                            :@NET:<before>trc:   Schd. 17x:</before>
+   SCHEDULED: <2017-07-25 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: b280f8cc-4cbb-46a5-81c0-4c8abb596139
+   :END:
+
+***  NEXT ❓ Marilyn > visit Gerta                     :@EMAIL:<before>trc:   Schd. 17x:</before>
+   SCHEDULED: <2017-07-25 Tue>
+    @ Heather Heights
+   :PROPERTIES:
+   :ORIGINAL_ID: 78df4921-d29b-4afe-9303-e74d52e1f475
+   :END:
+
+***  NEXT 🤔 children leading a psalm              :shlw::open:<before>trc:   Schd. 15x:</before>
+   SCHEDULED: <2017-07-27 Thu>
+   - must be age appropriate
+     - simple and short for younger children, like Mattie
+     - longer for older kids, like Josiah
+   - they'll need training/preparation
+   - perhaps tie it to a special day
+     - Rally Day
+     - Reign of Christ Sunday
+   - will need the help of teachers and parents
+   :PROPERTIES:
+   :ORIGINAL_ID: 6c9e641c-c4c6-4e05-a8ab-92f896cf9f54
+   :END:
+
+***  NEXT 🤔 Bonnie Magin's idea > uplifting thoughts :shlw::open:<before>trc:   Schd. 14x:</before>
+   SCHEDULED: <2017-07-28 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: ba833705-ed4e-48a0-a4ed-eaf3c0133c09
+   :END:
+
+***  NEXT Take on Joy photog conversation<before>pso:   Schd. 11x:</before>
+   SCHEDULED: <2017-07-31 Mon>
+   :PROPERTIES:
+   :ORIGINAL_ID: 3cff7973-35a8-4bc5-abbd-1988856c067a
+   :END:
+
+***  NEXT ❓ Bill A. > dialogue about HOME             :@PHONE:<before>trc:   Schd.  9x:</before>
+   SCHEDULED: <2017-08-02 Wed>
+   :PROPERTIES:
+   :ORIGINAL_ID: 1a62089d-ce69-48a0-aeb2-55b32f51a2e5
+   :END:
+
+***  NEXT 🤔 desired conversations                 :shlw::open:<before>trc:   Schd.  3x:</before>
+   SCHEDULED: <2017-08-08 Tue>
+   - YiFen
+   - Mike Holloway
+   - Ken & Ida
+   - Bonnie Harris
+   - Fred H
+   - Scot
+   - Amy Nyland
+   :PROPERTIES:
+   :ORIGINAL_ID: 1935f3df-a64e-4668-8d8d-3a20e6d56b19
+   :END:
+
+***  NEXT 🤔 asking consistory > helping Lakeview  :shlw::open:<before>trc:   Schd.  3x:</before>
+   SCHEDULED: <2017-08-08 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 593b4c47-b409-4c00-b86f-93968beedc47
+   :END:
+
+***  NEXT Write letter to Bartletts<before>mine:  Schd.  1x:</before>
+      SCHEDULED: <2017-08-10 Thu>
+   Carol and David Bartlett
+   63 Charlton Hill Rd
+   Hamden Ct 06518
+   :PROPERTIES:
+   :ORIGINAL_ID: 8bf798d2-871a-4e4b-a848-8c1f830285b6
+   :END:
+
+
+
+* Phone Calls<after>KEYS=b#2 TITLE: MobileOrg agendas</after>
+**  NEXT 📞 June Pehta                                      :@PHONE:<before>trc:   344d</before>
+   SCHEDULED: <2017-03-02 Thu>
+   :PROPERTIES:
+   :ORIGINAL_ID: d356fff5-4e3c-46af-9e65-8e9b71e7929f
+   :END:
+
+**  NEXT 📞 Carol Stimus                                    :@PHONE:<before>trc:   206d</before>
+   SCHEDULED: <2017-03-02 Thu>
+   :PROPERTIES:
+   :ORIGINAL_ID: 511d6547-e5d3-4f62-b85b-addcc64c11d1
+   :END:
+
+**  NEXT 📞 Jackie Matteson                                 :@PHONE:<before>trc:   206d</before>
+   SCHEDULED: <2017-07-11 Tue>
+   :PROPERTIES:
+   :ORIGINAL_ID: 747d24a5-ec09-45ac-89e2-6f0850d0caab
+   :END:
+
+**  NEXT 📞 Dianne Pivarnik                                 :@PHONE:<before>trc:   133d</before>
+   SCHEDULED: <2017-03-31 Fri>
+   :PROPERTIES:
+   :ORIGINAL_ID: e482cc69-1329-4b88-ace6-83c3ba4405d7
+   :END:
+
+**  NEXT ❓ Bill A. > dialogue about HOME                   :@PHONE:<before>trc:   10d</before>
    SCHEDULED: <2017-08-02 Wed>
    :PROPERTIES:
    :ORIGINAL_ID: 1a62089d-ce69-48a0-aeb2-55b32f51a2e5
@@ -41,55 +437,181 @@
 
 
 * Errands<after>KEYS=b#3 TITLE: MobileOrg agendas</after>
-**  NEXT Take cable modem to TW store                         :@CAR:<before>mine:  92d</before>
+**  NEXT Take cable modem to TW store                         :@CAR:<before>mine:  93d</before>
    SCHEDULED: <2017-05-10 Wed>
    :PROPERTIES:
    :ORIGINAL_ID: 4c5a67c3-9477-486d-ad84-f241544dd9ba
    :END:
 
-**  NEXT Get haircut                                          :@CAR:<before>life:  nil</before>
-   SCHEDULED: <2017-08-10 Thu .+4w>
+
+
+* Current Projects<after>KEYS=b#4 TITLE: MobileOrg agendas</after>
+**  CURRENT Thank you notes written<before>mine:  228d-</before>
+
    :PROPERTIES:
-   :ORIGINAL_ID: 068d0a6e-152b-42f4-85d9-b74e878b8d8e
+   :ORIGINAL_ID: b5d1bd0d-53db-4e30-8533-0454a6575741
+   :END:
+
+**  CURRENT Power supply for JD's computer installed<before>mine:  130d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 76c57875-6420-48d1-a9ec-51500506f42d
+   :END:
+
+**  CURRENT Viola part for Helvey piece completed<before>mine:  123d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 752441ff-6f10-43bd-885d-fe8cadf3ea3c
+   :END:
+
+**  CURRENT Printer fixed<before>mine:  102d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: e3fa9a62-d2fe-4d4a-aff7-7d9a2ba36f89
+   :END:
+
+**  CURRENT Summer chamber concert completed<before>mine:  50d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 25d8c245-b0f6-4db1-917b-d9b8e57f2e38
+   :END:
+
+**  CURRENT SMB grant application submitted<before>trc:   136d-506d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 98b70fb3-e8ba-495d-92d5-7deaee88fd5b
+   :END:
+
+**  CURRENT Interview process developed<before>trc:   105d--11d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 65ac133a-a01e-4ab7-ab87-fa008a1125e2
+   :END:
+
+**  CURRENT Position advertised<before>trc:   105d--11d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 9f2bf095-da23-41a6-b8f0-3928e680a22b
+   :END:
+
+**  CURRENT Incidentals for Pent II worship completed<before>trc:   44d--52d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 929d1dd0-4e99-41e4-97ce-c78e0a88a873
+   :END:
+
+**  CURRENT Liturgist workshop planned & led<before>trc:   105d-20d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: f1926c2b-faf8-4a30-95cd-a91bf37270e0
+   :END:
+
+**  CURRENT TRC worship problems named and addressed<before>trc:   91d-20d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: e69696df-59fd-4b4b-80da-833a41b8d6d4
+   :END:
+
+**  CURRENT Plan for solving worship problems developed<before>trc:   91d-20d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: f65e8e7e-4674-4475-bdd3-3c282f0a4516
+   :END:
+
+**  CURRENT Next SS topic decided<before>trc:   44d-20d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 83617b05-cd95-42b0-82f7-5621d948cb70
+   :END:
+
+**  CURRENT Additional SS teaching methods deployed<before>trc:   44d-20d</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: ce93d0a2-d0d5-403e-843d-a22841a31109
+   :END:
+
+**  CURRENT Formation of a Discernment Circle decided<before>life:  -</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: faa209af-cded-4137-9d3b-8c6120dc5ed2
+   :END:
+
+**  CURRENT VP of Events recruited<before>pso:   327d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 0f53309c-62d9-4c86-b9b4-db970499cf21
+   :END:
+
+**  CURRENT Fundraising proposals developed & presented<before>pso:   320d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 34e80cab-dedc-4680-ba97-86310878821c
+   :END:
+
+**  CURRENT 2017-18 season essentials & incidentals arranged<before>pso:   -</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 64e08318-b3df-47e1-8a89-e61940d69dd5
+   :END:
+
+**  CURRENT My ads responsibilies fulfilled<before>pso:   -</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 80f0204a-ec5b-470f-9f6a-7ef1009bc64d
+   :END:
+
+**  CURRENT Vol. coord. contracted<before>pso:   -</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: e3205a6e-4b61-4582-86ce-61819cb7ae92
+   :END:
+
+**  CURRENT Prelude Party completed<before>pso:   -</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 20b89942-9334-4127-8afa-54ab56a05c8a
+   :END:
+
+**  CURRENT September meeting completed<before>pso:   18d-</before>
+
+   :PROPERTIES:
+   :ORIGINAL_ID: 9488434a-ad2e-4fbb-a20e-0609d5e20757
    :END:
 
 
 
-* Select Current Projects<after>KEYS=b#4 TITLE: MobileOrg agendas</after>
-
-
 * Active Goals<after>KEYS=b#5 TITLE: MobileOrg agendas</after>
-**  NOW To lead TRC in culture-changing partic. in DLC<before>trc:   239d-507d</before>
+**  NOW To lead TRC in culture-changing partic. in DLC<before>trc:   240d-506d</before>
 
    :PROPERTIES:
    :ORIGINAL_ID: 45e3a697-844f-41a9-953b-a944a834cb51
    :END:
 
-**  NOW To hire an additional ministry staff person<before>trc:   154d--10d</before>
+**  NOW To hire an additional ministry staff person<before>trc:   155d--11d</before>
 
    :PROPERTIES:
    :ORIGINAL_ID: 67135115-d9b3-4010-833b-2c3e82023812
    :END:
 
-**  NOW To be healthy & creative planning post-Pent II worship<before>trc:   107d--51d</before>
+**  NOW To be healthy & creative planning post-Pent II worship<before>trc:   108d--52d</before>
 
    :PROPERTIES:
    :ORIGINAL_ID: ec01c32c-574c-4d4f-ac60-05637cd2f080
    :END:
 
-**  NOW To develop practices that could improve worship<before>trc:   104d-21d</before>
+**  NOW To develop practices that could improve worship<before>trc:   105d-20d</before>
 
    :PROPERTIES:
    :ORIGINAL_ID: 7ace7060-7686-4688-ab25-51e48ddb00ce
    :END:
 
-**  NOW To rejuvenate my SS class<before>trc:   104d-21d</before>
+**  NOW To rejuvenate my SS class<before>trc:   105d-20d</before>
 
    :PROPERTIES:
    :ORIGINAL_ID: 79119467-2f0c-40f2-8dcb-66a61020a225
    :END:
 
-**  NOW To help plan & participate in a great Ref 500 event<before>trc:   66d-79d</before>
+**  NOW To help plan & participate in a great Ref 500 event<before>trc:   67d-78d</before>
 
    :PROPERTIES:
    :ORIGINAL_ID: e1ab5eb4-c764-492a-889b-39b591e75897

@@ -68,13 +68,14 @@
 
 * Tasks
 ** NEXT Get haircut                                                    :@CAR:
-   SCHEDULED: <2017-08-10 Thu .+4w>
+   SCHEDULED: <2017-09-08 Fri .+4w>
    :PROPERTIES:
    :REPEAT_TO_STATE: NEXT
    :EFFORT:   0:45
    :ID:       068d0a6e-152b-42f4-85d9-b74e878b8d8e
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2017-08-11 Fri 15:50]
    - State "DONE"       from "NEXT"       [2017-07-20 Thu 16:00]
    - State "DONE"       from "NEXT"       [2017-06-06 Tue 15:55]
    - State "WAIT"       from "NEXT"       [2017-05-05 Fri 11:35]

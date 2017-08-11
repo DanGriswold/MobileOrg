@@ -6,5 +6,5 @@
 #+ALLPRIORITIES: A B C
 * [[file:agendas.org][Agenda Views]]
 * [[file:life.org][life.org]]
-* [[file:personal.org][personal.org]]
-* [[file:trinity.org][trinity.org]]
+* [[file:restaurants.org][restaurants.org]]
+* [[file:wines.org][wines.org]]
