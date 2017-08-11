@@ -1,0 +1,53 @@
+# list of favorite or useful restaurants
+
+* Breakfast
+** Coal Tower
+** Village Bakery
+** Billy's Homestead
+** Glen Edith
+** Original Steve's
+** Jim's on Main
+** Mad Hatter
+** Frog Pond
+** Starry Nites
+** Browncroft Family Restaurant
+** George's
+** Tom's Restaurant
+
+
+* Lunch
+** Penfield
+*** Penfield Pour House
+*** Itacate
+*** Jeremiah's
+*** MacGregor's
+** East End / Park Ave / Monroe Village
+*** DiBella's
+*** Orange Glory
+*** SEA
+*** Sinbad's
+*** Mad Hatter
+*** Jine's
+*** Sticky Lips
+** Downtown / South Wedge
+*** Dinosaur
+*** Tap & Mallet
+** Other
+*** Guacamole
+*** Gigi's
+*** Aja Noodle
+
+
+* Coffee
+** Glen Edith
+** Boulder
+** Cafe Sasso
+** Spot
+** Mellow Mug
+
+
+* Drinks
+** MacGregor's
+** Tap & Mallet
+** TRATA
+** Edibles
