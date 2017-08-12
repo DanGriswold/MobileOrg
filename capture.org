@@ -1,2 +1,5 @@
-* NEXT test
+* DONE test
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2017-08-12 Sat 10:55]
+  :END:
   a test of node
