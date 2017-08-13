@@ -1,4 +1,1 @@
-* NEXT try this
-  SCHEDULED: <2017-08-12>
-* NEXT another one
-  SCHEDULED: <2017-08-12>
+
