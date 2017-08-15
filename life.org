@@ -8,7 +8,6 @@
    :LOGBOOK:
    - State "CURRENT"    from              [2017-05-12 Fri 13:10]
    :END:
-
 *** DONE 🤔 friends for disc circle                               :shlw:open:
     SCHEDULED: <2017-05-15 Mon>
     :PROPERTIES:
@@ -56,7 +55,8 @@
     - I first need to re-read some of /Let Your Life Speak/
     - I do have a circle: people I trust, who know me, and are wise
     - it's just that they're never together at the same time
-*** Parker Palmer on the Clearness Committee
+*** NEXT Tk notes on Parker Palmer: the Clearness Committee            :@NET:
+    SCHEDULED: <2017-08-21 Mon>
     https://vimeo.com/album/3795627/video/155177203
 
 * Events/dates
